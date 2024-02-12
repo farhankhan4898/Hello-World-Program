@@ -12,7 +12,7 @@
 <body>
     <nav class="navbar navbar-expand-lg bg-info">
         <div class="container-fluid">
-            <a class="navbar-brand" href="#">Demo Bootstrap</a>
+            <a class="navbar-brand" href="#">Bootstrap Tutorial</a>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
                 data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false"
                 aria-label="Toggle navigation">
@@ -29,19 +29,16 @@
                     <li class="nav-item dropdown">
                         <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown"
                             aria-expanded="false">
-                            List
+                            Function
                         </a>
                         <ul class="dropdown-menu">
-                            <li><a class="dropdown-item" href="#">Action</a></li>
-                            <li><a class="dropdown-item" href="#">Another action</a></li>
+                            <li><a class="dropdown-item" href="#">PHP Function</a></li>
+                            <li><a class="dropdown-item" href="#">HTML Function</a></li>
                             <li>
                                 <hr class="dropdown-divider">
                             </li>
-                            <li><a class="dropdown-item" href="#">Something else here</a></li>
+                            <li><a class="dropdown-item" href="#">JS Function</a></li>
                         </ul>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link disabled" aria-disabled="true">Disabled</a>
                     </li>
                 </ul>
                 <form class="d-flex" role="search">
@@ -52,7 +49,7 @@
         </div>
     </nav>
     <div class="container">
-        <h1>Hello, world!</h1>
+        <h1>Bootstrap Tutorial for Beginner</h1>
         <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"
             integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL"
             crossorigin="anonymous"></script>
